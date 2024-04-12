@@ -1,3 +1,4 @@
-# Spark-for-Mastodon-issue-tracker
+# Spark for Mastodon
+Issue tracker for Spark for Mastodon
 
-# Submit issues you are having or feature requests to potentially be added into the app
+![Spark logo](https://imgur.com/a/hCHOu4N)
